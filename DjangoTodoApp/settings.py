@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Django_DB',
         'USER': 'root',
-        'PASSWORD': 'tintech6345',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '3307',
         # your port maybe 3306 , ensure you change it to your own mysql port number
